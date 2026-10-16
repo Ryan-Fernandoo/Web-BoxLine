@@ -4,10 +4,10 @@
 BoxLine is a simple clothing website project built to showcase clothing products through a clean and user-friendly interface.
 
 ## Features
-- Display clothing products and images
-- Simple website layout
-- Organized HTML, CSS, and JavaScript files
-- Responsive design (if supported)
+- Display clothing products and images.
+- Interactive welcome message that asks users to enter their name when they visit the website.
+- Personalized greeting displayed on the homepage using the user's name.
+- Simple and user-friendly website interface.
 
 ## Technologies Used
 - HTML
